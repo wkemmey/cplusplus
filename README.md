@@ -16,4 +16,4 @@
 
 ## YouTube
 
-[C++ Tutorial for Beginners - Full Course[(https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
